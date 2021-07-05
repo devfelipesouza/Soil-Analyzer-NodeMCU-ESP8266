@@ -1,5 +1,9 @@
 ##  Soil-Analyzer-NodeMCU-ESP8266
 
+
+
+Sistema feito para controle de umidade do solo usando controlador NodeMCU e banco de dados MySQL
+
 ### Componentes utilizados
 
 - NodeMCU WIFI
@@ -18,3 +22,4 @@
 
 
 //Feito em 2018
+
